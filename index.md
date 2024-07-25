@@ -17,38 +17,38 @@ Edge computing
 
 ## Education
 
-`Aug 2024 - 2026`
+`Aug2024 - 2026`
 __Sc.M., Technical University of Denmark__ Autonomous Systems
 
-`Oct 2020 - Jun 2024`
+`Oct2020 - Jun2024`
 __Sc.B., Warsaw University of Technology__ Robotics and Automatic Control
 
 - Faculty of Power and Aeronautical Engineering
 
 ## Professional Experience
 
-`Oct 2023 - Aug 2024`
+`Oct2023 - Aug2024`
 __Junior Robotics Engineer, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
 - Training and implementation of ML models with use of 2D and 3D perception data to prevent collision of an autonomous cleaning robot with a human
 - ROS-based packages for predictive maintenance of the autonomous robot using multiple sensors
 - Pre-sales audits and deployment of mobile robots at client facilities
 
-`Jun 2023 - Oct 2023`
+`Jun2023 - Oct2023`
 __Intern in Hardware Design Team, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
 - Design of parts (Solidworks, Inventor)
 - 3D printing
 - Tests of new componenets prototypes
 
-`Jul 2022 - Dec 2022`
+`Jul2022 - Dec2022`
 __Junior Mechatronics Engineer, Knowledge__ Warsaw, Poland
 
 -  Creating several devices for art shows (concept to final solution)
 -  Design of parts (Solidworks)
 -  Selection and assembly of various sensors and other electrical components
 
-`Mar 2021 - Dec 2023`
+`Mar2021 - Dec2023`
 __Member of Melson - humanoid robot project, [Students' Robotics Association](https://knr.edu.pl/)__ Warsaw University of Technology
 
 -  Member of Melson - humanoid robot team
@@ -67,7 +67,7 @@ __Member of Melson - humanoid robot project, [Students' Robotics Association](ht
 
 ### Courses
 
-`Mar 2024`
+`Mar2024`
 __TU Delft__ Artificial Intelligence for Engineering Applications, ATHENS programme
 
 ### Projects
