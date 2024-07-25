@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tomasz Niedziałkowski's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tomasz Niedziałkowski
+Junior robotics engineer and Autonomous Systems student at DTU. Interested in robotic perception and human-interaction systems. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="t.niedzialkowski22@gmail.com">t.niedzialkowski22@gmail.com</a>
+| <a href="https://github.com/moskitoo">GitHub</a>
+| <a href="https://www.linkedin.com/in/tomasz-niedzialkowski/">LinkedIn</a>
 </div>
 
 
