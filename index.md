@@ -57,13 +57,13 @@ __Member of Melson - humanoid robot project, [Students' Robotics Association](ht
 
 ## Skills
 
-Python
-C++
-ROS
-Git
-Linux
-Microcontrollers - Arduino, STM32, ESP32
-Solidworks
+-  Python
+-  C++
+-  ROS
+-  Git
+-  Linux
+-  Microcontrollers - Arduino, STM32, ESP32
+-  Solidworks
 
 ### Courses
 
