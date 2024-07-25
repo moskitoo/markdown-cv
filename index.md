@@ -7,86 +7,91 @@ Junior robotics engineer and Autonomous Systems student at DTU. Interested in ro
 
 <div id="webaddress">
 <a href="t.niedzialkowski22@gmail.com">t.niedzialkowski22@gmail.com</a>
-| <a href="https://github.com/moskitoo">GitHub</a>
 | <a href="https://www.linkedin.com/in/tomasz-niedzialkowski/">LinkedIn</a>
+| <a href="https://github.com/moskitoo">GitHub</a>
 </div>
 
+### Experienced in
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Edge computing
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2024 - 2026`
+__Sc.M., Technical University of Denmark__ Autonomous Systems
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`October 2020 - June 2024`
+__Sc.B., Warsaw University of Technology__ Robotics and Automatic Control
 
-- Sizar
+- Faculty of Power and Aeronautical Engineering
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Professional Experience
 
-- Fellow
+`October 2023 - August 2024`
+__Junior Robotics Engineer, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
+- Training and implementation of ML models with use of 2D and 3D perception data to prevent collision of an autonomous cleaning robot with a human
+- ROS-based packages for predictive maintenance of the autonomous robot using multiple sensors
+- Pre-sales audits and deployment of mobile robots at client facilities
 
+`June 2023 - October 2023`
+__Intern in Hardware Design Team, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
-## Awards
+- Design of parts (Solidworks, Inventor)
+- 3D printing
+- Tests of new componenets prototypes
 
-`2012`
-President, *Royal Society*, London, UK
+`July 2022 - December 2022`
+__Junior Mechatronics Engineer, Knowledge__ Warsaw, Poland
 
-Associate, *French Academy of Science*, Paris, France
+-  Creating several devices for art shows (concept to final solution)
+-  Design of parts (Solidworks)
+-  Selection and assembly of various sensors and other electrical components
 
+`March 2021 - December 2023`
+__Member of Melson - humanoid robot project, [Students' Robotics Association](https://knr.edu.pl/)__ Warsaw University of Technology
 
+-  Member of Melson - humanoid robot team
+-  Mentoring new members on recruitment projects
+-  Representing association at science club fairs and various events
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Python
+C++
+ROS
+Git
+Linux
+Microcontrollers - Arduino, STM32, ESP32
+Solidworks
 
-### Journals
+### Courses
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`March 2024`
+__TU Delft__ Artificial Intelligence for Engineering Applications, ATHENS programme
 
-`1669`
-Lectiones opticæ.
+### Projects
 
-etc. etc. etc.
+__Rubik's cube solver robot__ 
+- Intermediate Engineering Project at WUT (grade 5/5)
+- Software for detection and solving the cube
+- Software for control of stepper motors
+- Design of custom PCB
+- Design and manufacture of mechanical parts
+  
+__Melson - humanoid robot__ Students' Robotics Association
+- Performance tests of the robot
+- Design of robot's power section
+- Design of parts (Inventor)
+- Maintaining communication with sponsors
 
-### Patents
+### Languages
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+__English__ C1
+__Polish__ Native
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
 
 
