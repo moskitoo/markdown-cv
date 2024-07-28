@@ -30,40 +30,41 @@ __Sc.B., Warsaw University of Technology__ Robotics and Automatic Control
 `Oct2023 - Aug2024`
 __Junior Robotics Engineer, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
-- Training and implementation of ML models with use of 2D and 3D perception data to prevent collision of an autonomous cleaning robot with a human
-- ROS-based packages for predictive maintenance of the autonomous robot using multiple sensors
-- Pre-sales audits and deployment of mobile robots at client facilities
+- Training and implementation of ML models using 2D and 3D perception data to prevent collisions between an autonomous cleaning robot and humans
+- Development of ROS-based packages for predictive maintenance of autonomous robots operating with multiple sensors
+- Conducting pre-sales audits and deploying mobile robots at client facilities
 
 `Jun2023 - Oct2023`
-__Intern in Hardware Design Team, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
+__Intern in the Hardware Design Team, [United Robots](https://unitedrobots.co/)__ Warsaw, Poland
 
-- Design of parts (Solidworks, Inventor)
+- Design of parts (SolidWorks, Inventor)
 - 3D printing
-- Tests of new componenets prototypes
+- Tests of new componenet prototypes
 
 `Jul2022 - Dec2022`
 __Junior Mechatronics Engineer, Knowledge__ Warsaw, Poland
 
 -  Creating several devices for art shows (concept to final solution)
--  Design of parts (Solidworks)
+-  Design of parts (SolidWorks)
 -  Selection and assembly of various sensors and other electrical components
 
 `Mar2021 - Dec2023`
-__Member of Melson - humanoid robot project, [Students' Robotics Association](https://knr.edu.pl/)__ Warsaw University of Technology
+__Member of Melson - Humanoid Robot Project, [Students' Robotics Association](https://knr.edu.pl/)__ Warsaw University of Technology
 
--  Member of Melson - humanoid robot team
+-  Part of the Hardware Design Team
 -  Mentoring new members on recruitment projects
--  Representing association at science club fairs and various events
+-  Representing the association at science club fairs and various events
 
 ## Skills
 
--  Python
--  C++
+-  Python - OpenCV, PyTorch, numpy, pandas, plotly
+-  C++ - PCL
 -  ROS
 -  Git
 -  Linux
 -  Microcontrollers - Arduino, STM32, ESP32
--  Solidworks
+-  Web development - Flask, Bootstrap
+-  CAD
 
 ### Courses
 
@@ -73,11 +74,11 @@ __TU Delft__ Artificial Intelligence for Engineering Applications, ATHENS progra
 ### Projects
 
 __Rubik's cube solver robot__ 
-- Intermediate Engineering Project at WUT (grade 5/5)
-- Software for detection and solving the cube
-- Software for control of stepper motors
-- Design of custom PCB
-- Design and manufacture of mechanical parts
+- Intermediate Engineering Project at WUT (Grade 5/5)
+- Developed software for detection and solving of a cube
+- Created software for control of stepper motors
+- Designed a custom PCB
+- Designed and manufactured mechanical parts
   
 __Melson - humanoid robot__ Students' Robotics Association
 - Performance tests of the robot
