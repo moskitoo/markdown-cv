@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -15%;
 }
 
 
@@ -139,7 +139,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 10%;
+	width: 12%;
 }
 
 
@@ -150,7 +150,7 @@ h3 {
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 10%;
+	width: 12%;
 }
 
 a {
