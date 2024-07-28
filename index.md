@@ -61,24 +61,13 @@ __Member of Melson - Humanoid Robot Project, [Students' Robotics Association](ht
 
 ## Skills
 
--  Python
-	- PyTorch
-	- OpenCV
-	- numpy
-	- pandas
-	- plotly
--  C++
-	- PCL
+-  Python - PyTorch, OpenCV, numpy, pandas, plotly
+-  C++ - PCL
 -  ROS
 -  Git
 -  Linux
--  Microcontrollers
-	- Arduino 
-	- STM32
-	- ESP32
--  Web development
-	- Flask
-	- Bootstrap
+-  Microcontrollers - Arduino, STM32, ESP32
+-  Web development - Flask, Bootstrap
 -  CAD
 
 ### Courses
