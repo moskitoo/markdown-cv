@@ -17,7 +17,7 @@ Conceptualizing, designing, developing, and implementing robotic/automated syste
 
 Developing robotic perception systems supported by machine learning for edge computing
 
-Working on an early-production phase product both as an engineer and sales support
+Working on an initial production phase product as both an engineer and sales support
 
 ## Education
 
