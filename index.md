@@ -13,7 +13,11 @@ Junior robotics engineer and Autonomous Systems student at DTU. Interested in ro
 
 ### Experienced in
 
-Edge computing
+Conceptualizing, designing, developing, and implementing robotic/automated systems within a production environment (hardware, software)
+
+Developing robotic perception systems supported by machine learning for edge computing
+
+Working on an early-production phase product both as an engineer and sales support
 
 ## Education
 
